@@ -1,0 +1,2 @@
+Long-Distance NPCommunication allows you to interact with NPCs (i.e. open their shops) through the fullscreen menu if you have a Cell Phone with you.
+Having a Cell Phone will also prevent NPC shops from closing when you walk too far away.

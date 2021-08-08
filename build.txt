@@ -1,0 +1,5 @@
+displayName = Long-Distance NPCommunication
+author = Tomat
+version = 1.0.1
+modReferences = TomatoLib
+sortAfter = TomatLib
