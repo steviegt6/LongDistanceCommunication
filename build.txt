@@ -1,6 +1,6 @@
 displayName = Long-Distance NPCommunication
 author = Tomat
-version = 1.0.4
+version = 1.0.5
 modReferences = TomatoLib
 sortAfter = TomatLib
 buildIgnore = .git/*, .vs/*, bin/*, obj/*, TomatoLib/*, workshop.json
