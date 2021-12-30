@@ -1,7 +1,7 @@
 displayName = Long-Distance NPCommunication
 author = Tomat
-version = 1.0.6
+version = 1.0.6.1
 modReferences = TomatoLib
 sortAfter = TomatLib
 buildIgnore = .git/*, .vs/*, bin/*, obj/*, TomatoLib/*, workshop.json
-homepage = https://discord.com/invite/qrZ4Bpz
+homepage = https://discord.gg/Y8bvvqyFQw
